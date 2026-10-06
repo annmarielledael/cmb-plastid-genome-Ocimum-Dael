@@ -265,4 +265,4 @@ The annotated GenBank record, Galaxy results, screenshot, and analysis summaries
 
 **Galaxy History:** Plastid_Ocimum_Dael
 
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/annmarielledael/cmb-plastid-genome-Ocimum-Dael
