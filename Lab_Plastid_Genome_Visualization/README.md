@@ -4,7 +4,7 @@
 
 **Scientific name:** *Ocimum basilicum*  
 **Accession:** NC_035143.1  
-**Genome length:** 152,407 bp  
+**Genome length:** 152, 407 bp  
 
 ## Activity Overview
 
@@ -23,7 +23,7 @@ The plastid genome was obtained from NCBI using accession NC_035143.1, which rep
 
 The annotated GenBank file used for the visualization is stored in the `data/` folder:
 
-`data/Ocimum_basilicum_NC_035143.1.gb`
+`data/Ocimum_basilicum_NC_035143.1.gb` 
 
 ## OGDRAW Visualization
 
