@@ -4,7 +4,7 @@
 
 **Scientific name:** *Ocimum basilicum*  
 **Accession:** NC_035143.1  
-**Genome length:** 152,407 bp  
+**Genome length:** 152, 407 bp  
 **Genome type:** Circular chloroplast genome  
 
 ## Questions and Answers
